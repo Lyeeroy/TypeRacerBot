@@ -35,7 +35,6 @@ Func _core()
 EndFunc   ;==>_core
 
 Func _main()
-
 	$TR_STR = _IEBodyReadHTML($TR)
 	$Word = _StringBetween($TR_STR, '<span id="hwFirstgwt-uid-9" style="color: rgb(153, 204, 0);">', '</span>')
 	Send("{F1 UP}")
