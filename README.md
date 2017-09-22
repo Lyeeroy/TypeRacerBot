@@ -10,13 +10,12 @@ Coded in Autoit
 
 #How to use it:
 
-Change display format to Old-Style 2
+- Change display format to Old-Style 2
 
-Press "Hotkey" and paste word to input.
+- Press "Hotkey" and paste word to input.
+
 
 I'm newbie, code is short and full of bugs
-
-
 
 
 #Bugs: I know about:
