@@ -19,7 +19,7 @@ I'm newbie, code is short and full of bugs
 
 
 
-#Bugs I know about:
+#Bugs: I know about:
 
 -If you finish first race and play next, bot doesnt work
 
