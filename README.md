@@ -4,6 +4,8 @@ TR bot by Lyee
 
 Coded in Autoit
 
+Supported only Internet Explorer
+
 
 
 http://play.typeracer.com/
