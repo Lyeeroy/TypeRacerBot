@@ -22,7 +22,7 @@ I'm newbie, code is short and full of bugs
 
 # Bugs: I know about:
 
-- If you finish first race and play next, bot doesnt work you have to reload TR page by F5 button
+- If you finish first race and play next, bot doesnt work. You have to reload TR page by F5 button
 
 - Bot doesnt work in normal display format
 
