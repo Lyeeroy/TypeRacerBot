@@ -6,9 +6,9 @@ Coded in Autoit
 
 
 
-# http://play.typeracer.com/
+http://play.typeracer.com/
 
-#How to use it:
+# How to use it:
 
 - Change display format to "Old-Style 2" (Change it before script)
 
@@ -18,7 +18,7 @@ Coded in Autoit
 I'm newbie, code is short and full of bugs
 
 
-#Bugs: I know about:
+# Bugs: I know about:
 
 - If you finish first race and play next, bot doesnt work
 
