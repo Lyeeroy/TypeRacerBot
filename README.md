@@ -6,11 +6,11 @@ Coded in Autoit
 
 
 
-#http://play.typeracer.com/
+# http://play.typeracer.com/
 
 #How to use it:
 
-- Change display format to Old-Style 2
+- Change display format to "Old-Style 2" (Change it before script)
 
 - Press "Hotkey" and paste word to input.
 
