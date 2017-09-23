@@ -24,6 +24,6 @@ I'm newbie, code is short and full of bugs
 
 - Bot doesnt work in normal display format
 
-- If is in text symbol "!" script cant paste that symbol and basically it stuck on that place, you have to write it manualy
+- If in text symbol is "!" script cant paste that symbol and basically it stuck on that place, you have to write it manualy
 
 - Button "Start IE" can be pressed just once
