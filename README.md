@@ -28,4 +28,6 @@ I'm newbie, code is short and full of bugs
 
 - If in text is symbol "!" script cant paste that symbol and basically it stucked on that place, you have to write to input manualy
 
-- Button "Start IE" can be pressed just once
+- Button "Start IE" can be pressed just once (after some races)
+
+- Script crash if hotkey is pressed down long time (use "Per word" function instead of hold that key)
