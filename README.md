@@ -4,7 +4,7 @@ TR bot by Lyee
 
 Coded in Autoit
 
-Supported only Internet Explorer
+Internet Explorer supported only
 
 
 
